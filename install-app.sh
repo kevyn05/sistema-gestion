@@ -3,7 +3,7 @@
 
 set -e
 
-APP_DIR="/var/www/sistema-gestion"
+APP_DIR="/var/www/html/sistema-gestion"
 cd ${APP_DIR}
 
 echo "Instalando aplicación PHP..."
